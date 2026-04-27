@@ -192,5 +192,3 @@ sudo usermod -aG docker ubuntu
 
 ## Author
 Dhinakar M
-
-Your Name
